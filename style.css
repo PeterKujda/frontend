@@ -126,7 +126,7 @@ body {
 }
 .portfolio-item {
     /*display:inline-block;*/
-    display: flex;
+    display:inline-flex;
     flex-direction: row;
 
     overflow:hidden;
